@@ -9,14 +9,13 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 
 
-**[Hello World]** is a simple project. it is to check my knowledge about html and css. <br />
+**[Hello World]** is a simple project. It is to check my knowledge of HTML and CSS. <br />
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +70,7 @@ In the first commit of your feature branch create a .github/workflows folder and
 
 To run the project, execute the following command:
 
-load the index.html toyour favourite browser
+load the index.html to your favourite browser
 
 ### Run tests
 
@@ -91,7 +90,6 @@ npx stylelint "**/*.{css,scss}"
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Create a .html file that includes a <kbd>h1</kbd> header with the text "Hello Microverse!"**
@@ -99,7 +97,6 @@ npx stylelint "**/*.{css,scss}"
 - [ ] **Create a test.md file with the text "This file should be ignored by git".**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -111,30 +108,23 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project you can do future projects easy because you have gained basic knowledge about programming.
+If you like this project, please, feel free to give a star to the repository and share it with others who might benefit from it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank to all Microverse team members.
+I would like to express my gratitude to the Microverse team, code reviewers, and coding/learning partners for their invaluable assistance in creating this project. Additionally, I want to thank my husband and daughter for their unwavering support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
